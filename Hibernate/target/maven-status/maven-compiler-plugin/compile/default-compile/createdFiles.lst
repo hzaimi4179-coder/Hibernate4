@@ -1,0 +1,4 @@
+services\MachineService.class
+entities\Salle.class
+dao\IDao.class
+entities\Machine.class
